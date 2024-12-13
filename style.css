@@ -1,0 +1,56 @@
+html {
+  height: 100%;
+  width: 100%;
+}
+
+.a,.b,.c{
+  border-radius: 5px;
+  margin-left: 40px;
+  padding: 18px;
+  
+}
+.x{
+  width: 200px;
+  height: 40px;
+  border-radius: 30px;
+}
+body{
+  background-image: url(deliveroo-editions-ct-hub-2-da-paolo-pizza-bar.jpg);
+  background-repeat: no-repeat;
+  background-size:cover;
+}
+.d,.e,.y{
+  color: white;
+}
+.w{
+  width:70px ;
+  height: 50px;
+  margin-right: 70px ;
+}
+h3{
+  color: white;
+}
+
+.options{
+  position:absolute;
+  top: 10px;
+  left: 650px;
+  
+}
+
+.info{
+  margin-top: 170px;
+}
+.t{
+  border-radius: 30px;
+  background-color: cyan;
+  padding: 18px;
+  width: 150px;
+  margin-top: 30px;
+  font-family: Tahoma;
+}
+
+
+
+
+  
